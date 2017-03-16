@@ -1,0 +1,2 @@
+my secondfile 
+It is thursday
